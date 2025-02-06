@@ -27,7 +27,7 @@ For at TaggFagAI skal fungere, må du ha **LM Studio** kjørende med en passende
 ### 3️⃣ Kjør programmet
 Start programmet ved å kjøre:
 ```bash
-python Taggfagai.py
+python TaggFagAI1.0.py
 ```
 Velg en mappe med filer, og programmet vil automatisk analysere og sortere dem. ✅
 
